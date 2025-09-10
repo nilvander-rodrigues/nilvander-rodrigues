@@ -1,8 +1,8 @@
-# Olá, sou Nilvander Rodrigues 👋
+# Olá, sou Nilvander Rodrigues 
 
 Profissional com 9+ anos em operações e análise de dados, agora aplicando minhas habilidades como Cientista de Dados. Meu objetivo é combinar minha experiência em negócios com a expertise em Python, SQL e Machine Learning para transformar dados em insights e impulsionar o crescimento do negócio.
 
-### 🛠️ Habilidades Técnicas
+### Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
