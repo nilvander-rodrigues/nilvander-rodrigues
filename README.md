@@ -4,4 +4,11 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
 
 ##
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />alt="Python" width="40" height="40"/>
+<img
+  align="left"
+  alt="python"
+  title="python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />alt="Python" width="40" height="40"/>
+/>
