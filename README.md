@@ -40,7 +40,7 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   align="left"
   alt="powerbi"
   title="powerbi"
-  width="85px"
+  width="40px"
   style="padding-right: 10px;"
-  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"
+  src="https://raw.githubusercontent.com/arasem/Power-BI-Icons/main/images/pbi.svg"
   />
