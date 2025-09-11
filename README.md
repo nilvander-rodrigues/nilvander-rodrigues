@@ -38,9 +38,9 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   />
   <img 
   align="left"
-  alt="powerbi"
-  title="powerbi"
+  alt="Power BI"
+  title="Power BI"
   width="40px"
-  style="padding-right: 10px;"
-  src="https://raw.githubusercontent.com/arasem/Power-BI-Icons/main/images/pbi.svg"
-  />
+  style="padding-right:10px;" 
+  src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/PowerBI.svg"
+/>
