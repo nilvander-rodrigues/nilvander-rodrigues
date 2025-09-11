@@ -36,3 +36,11 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   style="padding-right: 10px;"
   src="https://cdn.simpleicons.org/databricks" 
   />
+  <img 
+  align="left"
+  alt="power bi"
+  title="power bi"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.simpleicons.org/powerbi"
+  />
