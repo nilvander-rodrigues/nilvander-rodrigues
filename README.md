@@ -8,7 +8,7 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   align="left"
   alt="python"
   title="python"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -16,7 +16,7 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   align="left"
   alt="apache-spark"
   title="apache-spark"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
 />
