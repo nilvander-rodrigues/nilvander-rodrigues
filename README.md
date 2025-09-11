@@ -38,8 +38,8 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   />
   <img 
   align="left"
-  alt="power bi"
-  title="power bi"
+  alt="powerbi"
+  title="powerbi"
   width="40px"
   style="padding-right: 10px;"
   src="https://cdn.simpleicons.org/powerbi"
