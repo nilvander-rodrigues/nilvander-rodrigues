@@ -4,42 +4,13 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
 
 ##
 
-<img
-  align="left"
-  alt="python"
-  title="python"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-  align="left"
-  alt="apache-spark"
-  title="apache-spark"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
-/>
-<img
-  align="left"
-  alt="git"
-  title="git"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-  align="left"
-  alt="databricks"
-  title="databricks"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.simpleicons.org/databricks" 
-  />
-<img 
-  alt="Power BI"
-  title="Power BI"
-  width="40px"
-  style="padding-right:10px;" 
-  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
-/>
+<img align="left" alt="python" title="python" height="40" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="apache-spark" title="apache-spark" height="40" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+<img align="left" alt="git" title="git" height="40" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="databricks" title="databricks" height="40" style="padding-right:10px;" 
+  src="https://cdn.simpleicons.org/databricks"/>
+<img align="left" alt="Power BI" title="Power BI" height="40" style="padding-right:10px;" 
+  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"/>
