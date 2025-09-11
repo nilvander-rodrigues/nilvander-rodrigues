@@ -20,3 +20,12 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
 />
+<img
+  align="left"
+  alt="git"
+  title="git"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img src="https://cdn.simpleicons.org/databricks" alt="Databricks" title="Databricks" width="40" style="padding-right: 10px;"/>
