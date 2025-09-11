@@ -12,3 +12,11 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+<img
+  align="left"
+  alt="apache-spark"
+  title="apache-spark"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
+/>
