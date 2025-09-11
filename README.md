@@ -4,9 +4,35 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
 
 ##
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" style="padding-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-spark-original.svg" alt="Apache Spark" title="Apache Spark" width="40" style="padding-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" title="Databricks" width="40" style="padding-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" title="Power BI" width="40" style="padding-right: 10px;"/>
-</p>
+<img
+  align="left"
+  alt="python"
+  title="python"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="apache-spark"
+  title="apache-spark"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
+/>
+<img
+  align="left"
+  alt="git"
+  title="git"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+  align="left"
+  alt="databricks"
+  title="databricks"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.simpleicons.org/databricks" 
+  />
