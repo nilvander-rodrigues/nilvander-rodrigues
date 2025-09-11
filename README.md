@@ -14,3 +14,8 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   src="https://cdn.simpleicons.org/databricks"/>
 <img align="left" alt="Power BI" title="Power BI" height="30" style="padding-right:10px;" 
   src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"/>
+<br/><br/>
+
+## 🌐 Conecte-se comigo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilvander-martins-rodrigues-082552206/)
