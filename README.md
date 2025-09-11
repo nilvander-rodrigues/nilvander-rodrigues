@@ -36,11 +36,4 @@ Profissional com 9+ anos em operações e análise de dados, agora aplicando min
   style="padding-right: 10px;"
   src="https://cdn.simpleicons.org/databricks" 
   />
-  <img 
-  align="left"
-  alt="Power BI"
-  title="Power BI"
-  width="40px"
-  style="padding-right:10px;" 
-  src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/PowerBI.svg"
-/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge)
