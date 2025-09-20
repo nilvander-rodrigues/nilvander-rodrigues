@@ -1,6 +1,6 @@
 # Olá, sou Nilvander Rodrigues 
 
-Profissional com 9+ anos em operações e análise de dados, agora aplicando minhas habilidades como Cientista de Dados. Meu objetivo é combinar minha experiência em negócios com a expertise em Python, SQL e Machine Learning para transformar dados em insights e impulsionar o crescimento do negócio.
+Profissional com 9+ anos em operações e análise de dados, atualmente aplicando minhas habilidades como Cientista de Dados. Busco unir minha experiência em negócios com expertise em Python, SQL e Machine Learning para gerar insights acionáveis que apoiem decisões estratégicas e impulsionem resultados mensuráveis.
 
 ##
 
